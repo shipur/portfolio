@@ -1,0 +1,36 @@
+/* masthead h1 #myName{
+    color: #d6e048;
+    font-family: 'Satisfy';
+    font-size: 2.5rem;
+    line-height: 2.5rem;
+    letter-spacing: 0.8rem;
+}; */
+.mainContainer{
+    background-color: white;
+  color: black;
+}
+p #cv{
+position: relative;
+  width: 100%;
+  height: auto;
+  min-height: 35rem;
+  padding: 15rem 0;
+  background-color: antiquewhite;
+  color: black;
+  /* background: linear-gradient(to bottom, rgba(22, 22, 22, 0.1) 0%, rgba(22, 22, 22, 0.5) 75%, #161616 100%), url("../img/bg-masthead.jpg"); */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+.CVcontent-section {
+    padding-top: 10rem;
+    background: white;
+    color: black;
+  }
+  
+.CVcontent-section p {
+    margin-bottom: 5rem;
+  }
+
